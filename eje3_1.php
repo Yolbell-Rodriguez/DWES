@@ -6,12 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-   <?php
-   function saludar($hola = "que pasa pisha"){
-    return $hola;
-   }
     
-   echo saludar();
-   ?> 
+    
 </body>
 </html>
